@@ -4,7 +4,7 @@
 <h1 align="center">Hi there, I'm Chirayu aka BOT_TLE</h1>
 <h3 align="center">Aspiring software developer</h3>
 
-Hi, I'm [Chirayu Baliyan](https://github.com/BOT-TLE), a passionate self-taught software developer and a graduate student at Dalhousie University (Canada) in the field of Applied Computer Science. I have around 1+ year of industry experience and still learning. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm [Chirayu Baliyan](https://github.com/BOT-TLE), a passionate self-taught software developer and a graduate student at University of Windsor (Canada) in the field of Applied Computer Science. I have around 1+ year of industry experience and still learning. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 I also put up the clean and neat code explaination on various coding platform. In addition to this, I have learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
